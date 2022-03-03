@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balakrishna
+- 👋 Hi, I’m Balakrishna
 - 👀 I’m interested in .net core development with SQL server as database, HTML, css, ajax, jQuery.
 - 🌱 I’m currently learning .net core with angular
 - 💞️ I’m looking to collaborate on developing .net core applications integrating with angular.
